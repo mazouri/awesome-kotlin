@@ -435,37 +435,37 @@ Here awesome badge for your project:
 
 ## <a name="android"></a>Android <sup>[Back ⇈](#android-category)</sup>
 ### <a name="android-libraries"></a>Libraries <sup>[Back ⇈](#android-libraries-subcategory)</sup>
-* [Kotlin/anko](https://github.com/Kotlin/anko) - Pleasant Android application development.
-* [JakeWharton/kotterknife](https://github.com/JakeWharton/kotterknife) - View injection library for Android.
-* [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Activity starter generator and arguments injection library for Android.
-* [MarcinMoskala/KotlinPreferences](https://github.com/MarcinMoskala/KotlinPreferences) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun.
-* [MarcinMoskala/PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun using object with fields binded to SharedPreferences.
-* [nsk-mironov/kotlin-jetpack](https://github.com/nsk-mironov/kotlin-jetpack) - A collection of useful extension methods for Android.
-* [pawegio/KAndroid](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code.
-* [chibatching/Kotpref](https://github.com/chibatching/Kotpref) - Android SharedPreference delegation for Kotlin.
-* [TouK/bubble](https://github.com/TouK/bubble) - Library for obtaining screen orientation when orientation is blocked in AndroidManifest.
-* [ragunathjawahar/kaffeine](https://github.com/ragunathjawahar/kaffeine) - Kaffeine is a Kotlin-flavored Android library for accelerating development.
-* [mcxiaoke/kotlin-koi](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development.
-* [BennyWang/KBinding](https://github.com/BennyWang/KBinding) - Android View Model binding framework write in kotlin, base on anko, simple but powerful.
-* [inaka/KillerTask](https://github.com/inaka/KillerTask) -  Android AsyncTask wrapper library, written in Kotlin.
-* [grandstaish/paperparcel](https://github.com/grandstaish/paperparcel) - Boilerplate reduction library written specifically for working with Kotlin data classes on Android.
-* [andre-artus/AnvilKotlin](https://github.com/andre-artus/AnvilKotlin) - Minimal UI library for Android inspired by React.
-* [mathcamp/fiberglass](https://github.com/mathcamp/fiberglass) - Easy lightweight SharedPreferences library for Android in Kotlin using delegated properties.
-* [nitrico/LastAdapter](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
-* [denisidoro/krouter](https://github.com/denisidoro/krouter) - A lightweight Android activity router.
-* [metalabdesign/AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
-* [jupf/staticlog](https://github.com/jupf/staticlog) - StaticLog - super lightweight static logging for Kotlin, Java and Android.
-* [zserge/anvil](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React.
-* [DanielMartinus/Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin.
-* [GlimpseFramework/glimpse-framework-android](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-* [infotech-group/android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
-* [zsmb13/MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt) - A DSL for creating Material Design navigation drawers without any XML.
-* [SnowdreamFramework/ToyBricks](https://github.com/SnowdreamFramework/ToyBricks) - Android Library that provide simpler way to achieve modularity.
-* [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - Lightweight particle system to create realistic confetti
-* [rahulchowdhury/Mystique](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list.
-* [calintat/alps](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
-* [costular/kotlin-android-utils](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming.
-* [rakshakhegde/ObservableFlow](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
+* [Kotlin/anko](https://github.com/Kotlin/anko) - 这个库可以让你更愉悦的开发Android程序
+* [JakeWharton/kotterknife](https://github.com/JakeWharton/kotterknife) - 视图注入
+* [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Activity启动器生成及参数注入
+* [MarcinMoskala/KotlinPreferences](https://github.com/MarcinMoskala/KotlinPreferences) - 可以更方便的使用Preference
+* [MarcinMoskala/PreferenceHolder](https://github.com/MarcinMoskala/PreferenceHolder) - 面向对象的方式使用SharedPreferences
+* [nsk-mironov/kotlin-jetpack](https://github.com/nsk-mironov/kotlin-jetpack) - 有用的扩展方法
+* [pawegio/KAndroid](https://github.com/pawegio/KAndroid) - 提供有用的扩展方法避免冗余代码
+* [chibatching/Kotpref](https://github.com/chibatching/Kotpref) - SharedPreference的一个库
+* [TouK/bubble](https://github.com/TouK/bubble) - 屏幕方向相关的库
+* [ragunathjawahar/kaffeine](https://github.com/ragunathjawahar/kaffeine) - 方便Android开发的库
+* [mcxiaoke/kotlin-koi](https://github.com/mcxiaoke/kotlin-koi) - 轻量级的库
+* [BennyWang/KBinding](https://github.com/BennyWang/KBinding) - 视图数据绑定的框架，基于anko,简单而强大
+* [inaka/KillerTask](https://github.com/inaka/KillerTask) - AsyncTask的一个kotlin包装器
+* [grandstaish/paperparcel](https://github.com/grandstaish/paperparcel) - kotlin data class相关的库
+* [andre-artus/AnvilKotlin](https://github.com/andre-artus/AnvilKotlin) - 极小的UI库，灵感来自于React
+* [mathcamp/fiberglass](https://github.com/mathcamp/fiberglass) - SharedPreferences的库
+* [nitrico/LastAdapter](https://github.com/nitrico/LastAdapter) - 不用写RecyclerView的Adapter，甚至ViewHolder
+* [denisidoro/krouter](https://github.com/denisidoro/krouter) - Activity路由器
+* [metalabdesign/AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - async/await 协程
+* [jupf/staticlog](https://github.com/jupf/staticlog) - Log工具
+* [zserge/anvil](https://github.com/zserge/anvil) - 极小的UI库，灵感来自于React
+* [DanielMartinus/Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - 计数器
+* [GlimpseFramework/glimpse-framework-android](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL
+* [infotech-group/android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) - 取代XML创建drawables的DSL方式
+* [zsmb13/MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt) - 创建Material Design navigation drawers的DSL方式
+* [SnowdreamFramework/ToyBricks](https://github.com/SnowdreamFramework/ToyBricks) - 模块化
+* [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - 粒子系统，创建五彩纸屑
+* [rahulchowdhury/Mystique](https://github.com/rahulchowdhury/Mystique) - RecyclerView的Adapter生成起，使得在List添加复杂的items变得容易
+* [calintat/alps](https://github.com/calintat/alps) - preferences
+* [costular/kotlin-android-utils](https://github.com/costular/kotlin-android-utils) - Android工具集
+* [rakshakhegde/ObservableFlow](https://github.com/rakshakhegde/ObservableFlow) - Databinding + Kotlin + RxJava实践
 * [programmerr47/ganalytics](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application.
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
